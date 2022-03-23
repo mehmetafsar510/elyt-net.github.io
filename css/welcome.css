@@ -37348,6 +37348,7 @@ header .header3 .menu {
   }
   header .header3 .mobile-right-menu {
     display: inline;
+    z-index: 2;
   }
   header .header3 .mobile-right-menu a {
     font-style: normal;
