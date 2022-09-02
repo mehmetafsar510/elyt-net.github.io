@@ -120,7 +120,7 @@ ELYT altyapısı profesyonel şekilde tasarlanmış ve pek çok denetimden geçi
 
 <details>
   <summary><b>ELYT cüzdan hareketlerimi nerede görebilirim?</b></summary> 
-ELYT Profil sayfanız altında yer alan <a href="https://elyt.net/profile/logs">Log Kayıtlarım</a> bölümüne girerek tüm cüzdan hareketlerinizi görebilirsiniz?
+ELYT Profil sayfanız altında yer alan <a href="https://elyt.net/profile/logs" target="_blank">Log Kayıtlarım</a> bölümüne girerek tüm cüzdan hareketlerinizi görebilirsiniz?
 </details>
 
 <details>
