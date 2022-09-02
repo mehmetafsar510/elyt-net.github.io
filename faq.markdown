@@ -24,17 +24,22 @@ With a distinctive business model, ELYT solves the problem of a falling floor pr
   
 <details>
   <summary><b>How to open an account on ELYT?</b></summary>
-There are multiple ways to open an ELYT account. You can connect to ELYT with one of your recent accounts, such as Twitter, Twitch, Telegram, Facebook, Discord, your email address, or your mobile phone number. You can also connect to ELYT with your [Metamask](https://metamask.io) account and create a profile.
+There are multiple ways to open an ELYT account. You can connect to ELYT with one of your recent accounts, such as Twitter, Twitch, Telegram, Facebook, Discord, your email address, or your mobile phone number. You can also connect to ELYT with your <a href="https://metamask.io" target="_blank">Metamask</a> account and create a profile.
 </details>
 
 <details>
   <summary><b>How do I add my other social media / Metamask accounts to my ELYT account?</b></summary>
-After creating your ELYT account with any option, you can define your other accounts by using the [My Social Accounts] (https://elyt.net/profile/social-accounts) section at the bottom of your account management page.
+After creating your ELYT account with any option, you can define your other accounts by using the <a href="https://elyt.net/profile/social-accounts" target="_blank">My Social Accounts</a> section at the bottom of your account management page.
 </details>
 
 <details>
   <summary><b>How can I edit my ELYT Profile?</b></summary>
-After logging into your ELYT account, you can define your account details by using the [Profile](https://elyt.net/profile/me) section at the bottom of your account management page.
+After logging into your ELYT account, you can define your account details by using the <a href="https://elyt.net/profile/me" target="_blank">Profile</a> section at the bottom of your account management page.
+</details>
+
+<details>
+   <summary><b>I accidentally created different profiles with different connection methods. How can I fix this?</b></summary>
+ELYT provides several options for creating a profile. If you have created multiple profiles using different methods and want to consolidate these methods into a single main account, please specify a main profile account. Then, login to the profile you want to unlink your connection method. On the My Social Media Accounts page, connect a new Metamask account to this profile, and disconnect the other connection method. You can now link the removed connection method to your main profile. The NFTs from the disconnected profile will not be migrated; you must manually transfer these NFTs to the other account.
 </details>
 
 <details>
@@ -48,22 +53,24 @@ The decks contain various cards and gifts can be bought with the collections cre
 
 <details>
   <summary><b>How can I find Influencers and Brands on ELYT?</b></summary>
-You can access all Influencers and Brands on the platform from the [Influencers] (https://elyt.net/influencers) option in the ELYT main menu.
+You can access all Influencers and Brands on the platform from the <a href="https://elyt.net/influencers" target="_blank">Influencers</a> option in the ELYT main menu.
 </details>
 
 <details>
   <summary><b>How can I discover NFTs on ELYT?</b></summary>
-You can explore all NFTs on the platform with the [Explore](https://elyt.net/explore) option in the ELYT main menu.
+You can explore all NFTs on the platform with the <a href="https://elyt.net/explore" target="_blank">Explore</a> option in the ELYT main menu.
 </details>
 
 <details>
   <summary><b>How can I have NFT on ELYT?</b></summary>
 There are various methods to have NFT on ELYT;
-- Follow various Twitch channels to get free decks
-- Subscribe to various Twitch channels to get free decks
-- Subscribing to various Youtube channels to get free decks
-- Use Serial Codes to get free decks
-- Pay with AVAX to buy decks
+<ul>
+    <li>Follow various Twitch channels to get free decks</li>
+    <li>Subscribe to various Twitch channels to get free decks</li>
+    <li>Subscribing to various Youtube channels to get free decks</li>
+    <li>Use Serial Codes to get free decks</li>
+    <li>Pay with AVAX to buy decks</li>
+</ul>
 </details>
 
 <details>
@@ -73,14 +80,21 @@ Serial Codes are distributed at a variety of events, live broadcasts, and via va
 
 <details>
   <summary><b>How can I find out which Twitch or Youtube channels earn free NFT?</b></summary>
-In the Explore section under ELYT, you can view all relevant free NFTs on ELYT by ticking Free NFTs in the left hand filter or directly using [this link](https://elyt.net/explore?free=true).
+In the Explore section under ELYT, you can view all relevant free NFTs on ELYT by ticking Free NFTs in the left hand filter or directly using <a href="https://elyt.net/explore?free=true" target="_blank">this link</a> .
+</details>
+
+<details>
+   <summary><b>Why can't I get free NFT Packs by Influencers</b></summary>
+To receive some free NFT Packages from some Influencers, you must be a paid subscriber to those Influencers' Twitch or Youtube channels. Influencers only give away free NFT Packages to their followers who are paid subscribers to the relevant media channel. Please make certain that you meet this requirement. The "Get Free" buttons and descriptions of such packages will be updated as soon as possible to be more informative for our users.
 </details>
 
 <details>
   <summary><b>What should I do to purchase an NFT sold with AVAX?</b></summary>
-You must enter the [My Wallet](https://elyt.net/profile/wallet) section under your ELYT Profile page. Here you can deposit AVAX to your account on the platform with two different options.
-- By transferring directly if you have linked your Metamask account
-- By sending from any Avalanche C-Chain address with the deposit option.
+You must enter the <a href="https://elyt.net/profile/wallet" target="_blank">My Wallet</a> section under your ELYT Profile page. Here you can deposit AVAX to your account on the platform with two different options.
+<ul>
+    <li>By transferring directly if you have linked your Metamask account</li>
+    <li>By sending from any Avalanche C-Chain address with the deposit option.</li>
+</ul>
 </details>
 
 <details>
@@ -105,7 +119,7 @@ The infrastructure of ELYT has been designed professionally and has passed numer
 
 <details>
   <summary><b>Where can I see my ELYT wallet transactions?</b></summary>
-You can see all your wallet activities by entering the [My Logs] (https://elyt.net/profile/logs) section under your ELYT Profile page.
+You can see all your wallet activities by entering the <a href="https://elyt.net/profile/logs" target="_blank">My Logs</a> section under your ELYT Profile page.
 </details>
 
 <details>
@@ -116,10 +130,12 @@ ELYT AVAX deposits and withdrawals take less than a minute.
 <details>
   <summary><b>What can I do with the NFT Decks I bought on ELYT?</b></summary>
 All digital assets on ELYT are designed in NFT standard. For an NFT Package you have purchased;
-- You can get the cards inside your NFT Deck by opening it.
-- You can transfer your NFT Deck to another address on the ELYT platform.
-- You can list your NFT Deck for sale with AVAX
-- You Can Mint Your NFT Deck
+<ul>
+    <li>You can get the cards inside your NFT Deck by opening it.</li>
+    <li>You can transfer your NFT Deck to another address on the ELYT platform.</li>
+    <li>You can list your NFT Deck for sale with AVAX</li>
+    <li>You Can Mint Your NFT Deck</li>
+</ul>
 </details>
 
 <details>
@@ -130,10 +146,12 @@ Each NFT Deck on ELYT has a distinct structure. An opened NFT Deck is burned (re
 <details>
   <summary><b>What can I do with NFT Cards on ELYT?</b></summary>
 All digital assets on ELYT are designed in NFT standard. For an NFT Card you have;
-- You can transfer your NFT Card to another address on the ELYT platform.
-- You can list your NFT Card for sale with AVAX
-- You Can Mint Your NFT Card
-- You can use your NFT Card to create a collection to buy a gift?
+<ul>
+    <li>You can transfer your NFT Card to another address on the ELYT platform.</li>
+    <li>You can list your NFT Card for sale with AVAX</li>
+    <li>You Can Mint Your NFT Card</li>
+    <li>You can use your NFT Card to create a collection to buy a gift?</li>
+</ul>
 </details>
 
 <details>
@@ -158,10 +176,12 @@ If you have completed the collection required to receive a gift, you will be not
 <details>
   <summary><b>What can I do with an NFT Gift I bought on ELYT?</b></summary>
 All digital assets on ELYT are designed in NFT standard. For an NFT Gift you have;
-- You can convert your NFT Gift into a digital or physical gift.
-- You can transfer your NFT Gift to another address on the ELYT platform.
-- You can list your NFT Gift for sale with AVAX
-- You Can Mint Your NFT Gift
+<ul>
+    <li>You can convert your NFT Gift into a digital or physical gift.</li>
+    <li>You can transfer your NFT Gift to another address on the ELYT platform.</li>
+    <li>You can list your NFT Gift for sale with AVAX</li>
+    <li>You Can Mint Your NFT Gift</li>
+</ul>
 </details>
 
 <details>
@@ -197,6 +217,11 @@ If you are connected to ELYT with the Metamask wallet containing the relevant NF
 <details>
   <summary><b>Why do I get an error when transferring an NFT onto ELYT?</b></summary>
 On ELYT, NFT transfers are only possible between addresses on the system. If the recipient address to which you want to transfer NFT does not belong to an ELYT account, the transfer will fail. To send NFT to addresses other than ELYT, first mint the relevant NFT, withdraw it to your Metamask wallet, and then send it using the traditional method.
+</details>
+
+<details>
+   <summary><b>How can I transfer an ELYT NFT to another ELYT user on the ELYT Platform?</b></summary>
+You must enter the wallet address of the ELYT Profile of the user to whom you wish to transfer the NFT. After logging into a profile on ELYT, the wallet address of that profile can be found on My Wallet page by clicking on DESPOSIT button. You can transfer any NFT to this user by going to the page of the NFT you want to send, you should use the ELYT Wallet address with the Transfer function of that NFT.
 </details>
 
 <details>

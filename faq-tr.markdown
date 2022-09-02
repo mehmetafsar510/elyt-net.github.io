@@ -19,22 +19,27 @@ ELYT, yeni nesil bir kazanım, kullanıcı sadakati ve pazarlama platformudur. N
 
 <details>
   <summary><b>ELYT’i farklı kılan nedir?</b></summary> 
-ELYT, özgün iş modeli ile NFT’lerin zaman için değer kaybı problemini çözer. Aynı zamanda bir kripto cüzdan sahibi olmayan kullanıcıların dahi sosyal medya hesapları ile sisteme bağlanarak NFT sahibi olmasını ve bu NFT’ler ile sistem üzerinde izin verilen işlemleri gerçekleştirmesini mümkün kılar. Bu özgün yaklaşım ELYT'i Web2 ile Web3 arasında doğal bir köprüye olarak konumlandırır.
+ELYT, özgün iş modeli ile NFT’lerin zaman için değer kaybı problemini çözer. Aynı zamanda bir kripto cüzdan sahibi olmayan kullanıcıların dahi sosyal medya hesapları ile sisteme bağlanarak NFT sahibi olmasını ve bu NFT’ler ile sistem üzerinde izin verilen işlemleri gerçekleştirmesini mümkün kılar. Bu özgün yaklaşım ELYT'i Web2 ile Web3 arasında doğal bir köprü olarak konumlandırır.
 </details>
 
 <details>
   <summary><b>ELYT üzerinde hesap nasıl açılır?</b></summary> 
-ELYT hesabı açmak için farklı seçenekler sunulmaktadır. Twitter, Twitch, Telegram, Discord, Facebook, E-posta veya Mobil telefon numarası seçeneklerinden birisini kullanarak ELYT’e bağlanabilirsiniz. Aynı zamanda [Metamask](https://metamask.io/) hesabınız ile de ELYT’e bağlanmak ve bir profil oluşturmak mümkündür.
+ELYT hesabı açmak için farklı seçenekler sunulmaktadır. Twitter, Twitch, Telegram, Discord, Facebook, E-posta veya Mobil telefon numarası seçeneklerinden birisini kullanarak ELYT’e bağlanabilirsiniz. Aynı zamanda <a href="https://metamask.io/" target="_blank">Metamask</a> hesabınız ile de ELYT’e bağlanmak ve bir profil oluşturmak mümkündür.
 </details>
 
 <details>
   <summary><b>ELYT hesabıma diğer sosyal medya / Metamask hesaplarımı nasıl tanımlarım?</b></summary> 
-ELYT hesabınızı herhangi bir bağlantı seçeneği ile oluşturduktan sonra hesap yönetim sayfanızın altında yer alan [Sosyal Medya Hesaplarım](https://elytnet/profile/social-accounts) bölümünü kullanarak diğer hesaplarınızı tanımlayabilirsiniz.
+ELYT hesabınızı herhangi bir bağlantı seçeneği ile oluşturduktan sonra hesap yönetim sayfanızın altında yer alan <a href="https://elyt.net/profile/social-accounts" target="_blank">Sosyal Medya Hesaplarım</a> bölümünü kullanarak diğer hesaplarınızı tanımlayabilirsiniz.
 </details>
 
 <details>
   <summary><b>ELYT Profilimi nasıl düzenleyebilirim?</b></summary> 
-ELYT hesabınıza giriş yatıktan sonra hesap yönetim sayfanızın altında yer alan [Profilim](https://elyt.net/profile/me) bölümünü kullanarak hesap detaylarınızı tanımlayabilirsiniz.
+ELYT hesabınıza giriş yatıktan sonra hesap yönetim sayfanızın altında yer alan <a href="https://elyt.net/profile/me" target="_blank">Profilim</a> bölümünü kullanarak hesap detaylarınızı tanımlayabilirsiniz.
+</details>
+
+<details>
+  <summary><b>Yanlışlıkla farklı bağlantı yöntemleri ile farklı profiller oluşturdum. Nasıl düzeltebilirim?</b></summary> 
+ELYT üzerinde bir profil oluşturmak için farklı seçenekler sunulmaktadır. Eğer farklı yöntemler ile birden fazla profil oluşturduysanız ve bu yöntemleri bir ana hesap altında toplamak istiyorsanız lütfen bir ana profil hesabı belirleyin. Daha sonra bağlantısını kaldırmak istediğiniz profile girerek yeni bir Metamask bağlantısı saplayın ve diğer bağlantıyı Sosyal Medya Hesaplarım sayfasından kaldırın. Artık kaldırdığınız bağlantıyı ana profilinize bağlayabilirsiniz. Bu işlem bağlantısı kaldırılan profildeki NFT'leri taşımayacaktır, bu NFT'leri manuel olarak diğer hesaba transfer etmelisiniz.
 </details>
 
 <details>
@@ -48,22 +53,24 @@ Desteler çeşitli kartlar içerir ve bu kartlar ile oluşturulan koleksiyonlar 
 
 <details>
   <summary><b>ELYT üzerindeki Influencer ve Markaları nasıl bulabilirim?</b></summary> 
-ELYT ana menüsünde bulunan [Influencer'lar](https://elyt.net/influencers) seçeneğinden platform üzerindeki tüm Influencer ve Markalara ulaşabilirsiniz.
+ELYT ana menüsünde bulunan <a href="https://elyt.net/influencers" target="_blank">Influencer'lar</a> seçeneğinden platform üzerindeki tüm Influencer ve Markalara ulaşabilirsiniz.
 </details>
 
 <details>
   <summary><b>ELYT üzerindeki NFT’leri nasıl keşfedebilirim?</b></summary> 
-ELYT ana menüsünde bulunan [Keşfet](https://elyt.net/explore) seçeneği ile platform üzerindeki tüm NFT’leri keşfedebilirsiniz.
+ELYT ana menüsünde bulunan <a href="https://elyt.net/explore" target="_blank">Keşfet</a> seçeneği ile platform üzerindeki tüm NFT’leri keşfedebilirsiniz.
 </details>
 
 <details>
   <summary><b>ELYT üzerinde nasıl NFT sahibi olabilirim?</b></summary> 
 ELYT üzerinde NFT sahibi olmak için çeşitli yöntemler bulunmaktadır;
-- Çeşitli Twitch kanallarını takip ederek ücretsiz şekilde
-- Çeşitli Twitch kanallarına abone olarak ücretsiz şekilde
-- Çeşitli Youtube kanallarına abone olarak ücretsiz şekilde
-- Seri Kodu girerek ücretsiz şekilde
-- AVAX ile ödeme yaparak ücretli şekilde
+<ul>
+    <li>Çeşitli Twitch kanallarını takip ederek ücretsiz şekilde</li>
+    <li>Çeşitli Twitch kanallarına abone olarak ücretsiz şekilde</li>
+    <li>Çeşitli Youtube kanallarına abone olarak ücretsiz şekilde</li>
+    <li>Seri Kodu girerek ücretsiz şekilde</li>
+    <li>AVAX ile ödeme yaparak ücretli şekilde</li>
+</ul>
 </details>
 
 <details>
@@ -73,14 +80,22 @@ Seri Kodları çeşitli etkinliklerde, canlı yayınlarda veya farklı platforml
 
 <details>
   <summary><b>Hangi Twitch veya Youtube kanalların ücretsiz NFT kazandırdığını nasıl bulabilirim?</b></summary> 
-ELYT altında yer alan Keşfet bölümünde, sol taraftaki filtreden Ücretsiz NFT’leri işaretleyerek veya doğrudan [bu linki](https://elyt.net/explore?free=true) kullanarak ELYT üzerindeki tüm ilgili ücretsiz NFT’leri görüntüleyebilirsiniz.
+ELYT altında yer alan Keşfet bölümünde, sol taraftaki filtreden Ücretsiz NFT’leri işaretleyerek veya doğrudan <a href="https://elyt.net/explore?free=true" target="_blank">bu linki</a> kullanarak ELYT üzerindeki tüm ilgili ücretsiz NFT’leri görüntüleyebilirsiniz.
+</details>
+
+<details>
+  <summary><b>BazıInfluencer'ların ücretsiz NFT Paketlerini neden alamıyorum</b></summary> 
+Youtube ve bazı Twitch NFT paketlerini alabilmek için bu kanallara ücretli abone olmanzı gerekmektedir. Influencer ilgili ücretsiz NFT Paketlerini sadece ilgili yayın kanalına ücretli abone olan takipçilerine hediye olarak dağıtmaktadır. Lütfen bu şartı yerine getirdiğinizden emin olunuz. En kısa sürede bu tarz paketlerin "Ücretsiz Al" butonları ve açıklamaları kullanıcılarımız için daha bilgilendirici şekilde güncellenecektir.
 </details>
 
 <details>
   <summary><b>AVAX ile satılan bir NFT satın almak için ne yapmalıyım?</b></summary> 
-ELYT Profil sayfanız altında yer alan [Cüzdanım](https://elyt.net/profile/wallet) bölümüne girmelisiniz. Burada iki farklı seçenek ile platformdaki hesabınıza AVAX yatırabilirsiniz.
-- Metamask hesabınız bağladıysanız doğrudan transfer ederek
-- Deposit seçeneği ile herhangi bir Avalanche C-Chain adresinden gönderim yaparak.
+ELYT Profil sayfanız altında yer alan <a href="https://elyt.net/profile/wallet" target="_blank">Cüzdanım</a> bölümüne girmelisiniz. Burada iki farklı seçenek ile platformdaki hesabınıza AVAX yatırabilirsiniz.
+
+<ul>
+    <li>Metamask hesabınız bağladıysanız doğrudan transfer ederek</li>
+    <li>Deposit seçeneği ile herhangi bir Avalanche C-Chain adresinden gönderim yaparak.</li>
+</ul>
 </details>
 
 <details>
@@ -105,7 +120,7 @@ ELYT altyapısı profesyonel şekilde tasarlanmış ve pek çok denetimden geçi
 
 <details>
   <summary><b>ELYT cüzdan hareketlerimi nerede görebilirim?</b></summary> 
-ELYT Profil sayfanız altında yer alan [Log Kayıtlarım](https://elyt.net/profile/logs) bölümüne girerek tüm cüzdan hareketlerinizi görebilirsiniz?
+ELYT Profil sayfanız altında yer alan <a href="https://elyt.net/profile/logs">Log Kayıtlarım</a> bölümüne girerek tüm cüzdan hareketlerinizi görebilirsiniz?
 </details>
 
 <details>
@@ -116,10 +131,13 @@ ELYT AVAX yatırma ve çekme işlemleri bir dakikanın altında gerçekleşmekte
 <details>
   <summary><b>ELYT üzerinde aldığım NFT Desteleri ile ne yapabilirim?</b></summary> 
 ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Satın aldığınız bir NFT Paketi için;
-- NFT Destenizi açarak içindeki kartları alabilirsiniz.
-- NFT Destenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Destenizi AVAX ile satış için listeleyebilirsiniz
-- NFT Destenizi Mintleyebilirsiniz
+
+<ul>
+    <li>NFT Destenizi açarak içindeki kartları alabilirsiniz.</li>
+    <li>NFT Destenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.</li>
+    <li>NFT Destenizi AVAX ile satış için listeleyebilirsiniz</li>
+    <li>NFT Destenizi Mintleyebilirsiniz</li>
+</ul>
 </details>
 
 <details>
@@ -130,10 +148,13 @@ ELYT üzerindeki her bir NFT Destesi kendisine özgü yapıya sahiptir. Açılan
 <details>
   <summary><b>ELYT üzerindeki NFT Kartlar ile neler yapabilirim?</b></summary> 
 ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Sahip olduğunuz bir NFT Kart için;
-- NFT Kartınızı ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Kartınızı AVAX ile satış için listeleyebilirsiniz
-- NFT Kartınızı Mintleyebilirsiniz
-- NFT Kartınızı bir hediye almak için bir koleksiyon yaratmak için kullanabilirsiniz?
+
+<ul>
+    <li>NFT Kartınızı ELYT platformundaki başka bir adrese transfer edebilirsiniz.</li>
+    <li>NFT Kartınızı AVAX ile satış için listeleyebilirsiniz</li>
+    <li>NFT Kartınızı Mintleyebilirsiniz</li>
+    <li>NFT Kartınızı bir hediye almak için bir koleksiyon yaratmak için kullanabilirsiniz?</li>
+</ul>
 </details>
 
 <details>
@@ -156,12 +177,14 @@ Bir hediye almak için gerekli koleksiyonu tamamladıysanız ilgili hediye sayfa
 </details>
 
 <details>
-  <summary><b>ELYT üzerinde aldığım bir NFT Hediye ile neler yapabilirim?</b></summary> 
+  <summary><b>ELYT  üzerinde aldığım bir NFT Hediye ile neler yapabilirim?</b></summary> 
 ELYT üzerindeki tüm dijital varlıklar NFT standardında tasarlanmıştır. Sahip olduğunuz bir NFT Hediye için;
-- NFT Hediyenizi, dijital veya fiziksel hediyeye dönüştürebilirsiniz.
-- NFT Hediyenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.
-- NFT Hediyenizi AVAX ile satış için listeleyebilirsiniz
-- NFT Hediyenizi Mintleyebilirsiniz
+<ul>
+    <li>NFT Hediyenizi, dijital veya fiziksel hediyeye dönüştürebilirsiniz.</li>
+    <li>NFT Hediyenizi ELYT platformundaki başka bir adrese transfer edebilirsiniz.</li>
+    <li>NFT Hediyenizi AVAX ile satış için listeleyebilirsiniz</li>
+    <li>NFT Hediyenizi Mintleyebilirsiniz</li>
+</ul>
 </details>
 
 <details>
@@ -196,7 +219,12 @@ Blockchain ekosisteminin doğası gereği bir kullanıcı sahip olduğu NFT’ni
 
 <details>
   <summary><b>ELYT üzerine bir NFT transferi yaparken neden hata alıyorum?</b></summary> 
-ELYT üzerinde NFT trasnferi sadece sistemin kendi üzerindeki adresler arasında yapılabilir. Eğer NFT transfer etmek istediğiniz alıcı adres, ELYT üzerinde bir hesaba ait değilse NFT transferi gerçekleşmez. ELYT dışındaki adreslere NFT transfer etmek için önce ilgili NFT'yi Mintlemeniz, Metamask cüzdanınıza çekmeniz ve geleneksel yöntem ile göndermeniz gerekmektedir.
+ELYT üzerinde NFT transferi sadece sistemin kendi üzerindeki adresler arasında yapılabilir. Eğer NFT transfer etmek istediğiniz alıcı adres, ELYT üzerinde bir hesaba ait değilse NFT transferi gerçekleşmez. ELYT dışındaki adreslere NFT transfer etmek için önce ilgili NFT'yi Mintlemeniz, Metamask cüzdanınıza çekmeniz ve geleneksel yöntem ile göndermeniz gerekmektedir.
+</details>
+
+<details>
+  <summary><b>ELYT üzerine bir NFT^yi farklı bir ELYT kullancısına nasıl transfer ederim?</b></summary> 
+Transfer etmek istediğiniz NFT'yi göndereceğiniz kullanıcının ELYT Profiline ait cüzdan adresini öğdenmeniz gierekiyor. Bu kullanıcı ELYT üzerindeki cüzdan adresiniz profiline giriş yaptıktan sonra Cüzdanım bölümü altındaki YATIR butonuna basarak öğrenebilir. Bu adrese göndermek istediğiniz NFT'nin sayfasına girerek, sahip olduğunuz NFT yanında yer alan Transfer butonuna basarak ve ilgili adresi girerek gönderebilirsiniz.
 </details>
 
 <details>
